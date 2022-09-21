@@ -1,5 +1,5 @@
 public class Nurettin {
     public static void main(String[] args) {
-        System.out.println("yeeteeer");
+        System.out.println("nurettinq");
     }
 }
